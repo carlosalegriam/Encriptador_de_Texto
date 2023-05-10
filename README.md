@@ -16,9 +16,9 @@ La letra "u" es convertida para "ufat"
 
 ### Requisitos: 🔧
 
-*_Debe funcionar solo con letras minúsculas_
-*_No deben ser utilizados letras con acentos ni caracteres especiales_
-*_Debe ser posible convertir una palabra para la versión encriptada también devolver una palabra encriptada para su versión original_
+* _Debe funcionar solo con letras minúsculas_
+* _No deben ser utilizados letras con acentos ni caracteres especiales_
+* _Debe ser posible convertir una palabra para la versión encriptada también devolver una palabra encriptada para su versión original_
 
 _Por ejemplo:_
 
@@ -27,8 +27,8 @@ _Por ejemplo:_
 gaitober" => "gato"
 ```
 
-*_La página debe tener campos para inserción del texto que será encriptado o desencriptado, y el usuario debe poder escoger entre as dos opciones._
-*_El resultado debe ser mostrado en la pantalla._
+* _La página debe tener campos para inserción del texto que será encriptado o desencriptado, y el usuario debe poder escoger entre as dos opciones._
+* _El resultado debe ser mostrado en la pantalla._
 
 **_Extras:_**
 _Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, o sea que tenga la misma funcionalidad del ctrl+C o de la opción "copiar" del menú de las aplicaciones._
